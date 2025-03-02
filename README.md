@@ -72,7 +72,9 @@ Deploy easily on **Vercel**, **Netlify**, or any hosting platform of your choice
 ## 👨‍💻 Author
 
 Georgi Beshirov
-LinkedIn - https://www.linkedin.com/in/georgi-beshirov-a6531523b/ | Website - https://skill-bridge-psi.vercel.app/
+
+## LinkedIn - https://www.linkedin.com/in/georgi-beshirov-a6531523b
+## Website - https://skill-bridge-psi.vercel.app/
 
 ## ⭐ Show Your Support
 
